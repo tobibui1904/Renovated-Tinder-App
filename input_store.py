@@ -1,0 +1,15 @@
+name = None
+age = None
+gender = None
+usage = None
+frequency = None
+relationship_status = None
+app_usage = None
+ice_breaker = None
+recommendation = None
+ghost = None
+overall = None
+reason = None
+intend = None
+input_dict = {}
+input_list = []
